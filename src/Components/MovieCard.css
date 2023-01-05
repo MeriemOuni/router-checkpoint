@@ -1,0 +1,7 @@
+.cardStyle {
+    margin-top: 30%; 
+    position: relative;
+}
+.cardStyle:hover {
+    transform: scale(1.1);
+}
